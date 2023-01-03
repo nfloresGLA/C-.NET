@@ -27,9 +27,9 @@ namespace integrador
 
             Console.WriteLine("Los datos ingresados son:");
             Console.WriteLine("Nombre: " + nombre);
-            Console.WriteLine("Nombre: " + apellido);
-            Console.WriteLine("Nombre: " + edad);
-            Console.WriteLine("Nombre: " + email);
+            Console.WriteLine("Apellido: " + apellido);
+            Console.WriteLine("Edad: " + edad);
+            Console.WriteLine("Email: " + email);
         }
     }
 }
