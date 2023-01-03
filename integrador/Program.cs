@@ -6,22 +6,19 @@ namespace integrador
     {
         static void Main(string[] args)
         {
-            string nombre, apellido, email;
-            int edad;
-
             Console.WriteLine("¡Bienvenido al formulario de inscripcion!\n");            
 
             Console.Write("Ingresa tu nombre: ");
-            nombre = Console.ReadLine();
+            string nombre = Console.ReadLine();
 
             Console.Write("Ingresa tu apellido: ");
-            apellido = Console.ReadLine();
-
+            string apellido = Console.ReadLine();
+            
             Console.Write("Ingresa tu edad: ");
-            edad = int.Parse(Console.ReadLine());
+            int edad = int.Parse(Console.ReadLine());
 
             Console.Write("Ingresa tu email: ");
-            email = Console.ReadLine();
+            string email = Console.ReadLine();
 
             Console.WriteLine();
 
