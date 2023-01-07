@@ -21,3 +21,8 @@ funcionalidad.
 
 <hr>
 
+## Carpetas:
+~~~ js
+integrador: C SHARP (Program.cs - codigo fuente)
+modules: archivos PDF de cada modulo
+~~~
