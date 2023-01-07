@@ -21,3 +21,26 @@ funcionalidad.
 
 <hr>
 
+## Carpetas:
+~~~ js
+integrador: C SHARP (Program.cs - codigo fuente)
+modules: archivos PDF de cada modulo
+~~~
+
+## Branches - Resumen de contenido
+<br>
+El proyecto cuenta con 5 etapas de desarrollo (uno por cada modulo) y una refactorizacion final.
+
+~~~ js
+/* stage-01 */
+Variables iniciales y su respectiva 
+captura de informacion por consola (usuario)
+y vista de dicha informacion de usuario
+
+/* stage-02 */
+Se agrega el menu inicial de seleccion de cursadas
+
+/* stage-03 */
+Se completa el menu de seleccion con sus
+respectivas excepciones de espacios y
+cursadas ya asignadas por consola
