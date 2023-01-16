@@ -29,7 +29,7 @@ modules: archivos PDF de cada modulo
 
 ## Branches - Resumen de contenido
 <br>
-El proyecto cuenta con 5 etapas de desarrollo (uno por cada modulo) y una refactorizacion final.
+El proyecto cuenta con 3 etapas de desarrollo
 
 ~~~ js
 /* stage-01 */
